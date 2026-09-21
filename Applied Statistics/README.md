@@ -1,1 +1,11 @@
-
+# Applied Statistics
+- Exam 1: Error types, F tests, t tests, chi-square
+- Final Project: predicting house prices using linear regression, including variable summaries, exploratory data analysis, checking of assumptions, fitted regression models and interpretations 
+- HW10
+  - Handwritten: OLS and hypothesis testing 
+  - SAS: lines of best fit, ANOVA, confidence intervals
+- HW11: ANOVA models with variations and interpretations 
+- HW8
+  - Handwritten: ANOVA, Kruskal-Wallis, confidence intervals
+  - SAS: One-way ANOVA model output
+- HW9: Linear contrasts, Bonferonni, Tukey, AOV, t tests
