@@ -1,4 +1,4 @@
-# Applied Statistics
+# Applied Statistics (SAS)
 - Exam 1: Error types, F tests, t tests, chi-square
 - Final Project: predicting house prices using linear regression, including variable summaries, exploratory data analysis, checking of assumptions, fitted regression models and interpretations 
 - HW10
