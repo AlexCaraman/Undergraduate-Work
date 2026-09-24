@@ -1,1 +1,15 @@
-
+# Numerical Methods (Matlab)
+- Group HW1: Matlab intro, matrix inversion with theory
+- Group HW2: Taylor expansions by hand and with Matlab, remainder formulas, quadratic approximations
+- Group HW4: Numerical differentiation methods
+- Group HW5: Simpson’s rule with remainder theorem problems
+- Group HW6: Gaussian quadrature for numerical integration 
+- Group HW7: Root-finding with bisection, Newton’s method, by hand and with Matlab
+- Group HW8: Explicit and implicit Euler’s method, stiff and non-stiff ODE methods
+- Group Hw9: Floating point arithmetic, numerical precision of computers
+- Practice Quiz
+  - PQ1A: Matrix inversion
+  - PQ2A: Taylor expansion
+  - PQ2B: Calculation for number of intervals necessary in exp{x} numerical integration
+  - PQ3A: Overview of polynomial interpolation methods
+  - PQ3B: Interpolation
