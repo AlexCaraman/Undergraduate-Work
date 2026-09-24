@@ -1,4 +1,4 @@
-# Biostatistics
+# Biostatistics (SAS)
 - Final Project
   - File 1: assignment document outlining prompts/requirements
   - File 2: final project report on lung cancer survival analysis. Includes exploratory data analysis, Kaplan-Meier curves and comparisons over treatment, cancer type, therapy, year, age, severity, and Karnofsky score strata. Combining stratifications of treatment with Karnofsky score and treatment with cancer type. Proportional hazards regression implemented with each aforementioned covariate. Interpretation and discussion provided for all of above.
